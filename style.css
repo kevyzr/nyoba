@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web DevBhai</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">Dev<span>Bhai</span></div>
+        <button class="btn-primary" id="sapaButton">Klik Aku!</button>
+    </nav>
+
+    <section class="hero">
+        <h1>Halo, ini Web <span class="highlight">Online</span> dari GitHub!</h1>
+        <p>Web ini jalan pakai HTML, CSS, dan sedikit JavaScript.</p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
